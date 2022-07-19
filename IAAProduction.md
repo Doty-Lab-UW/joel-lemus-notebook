@@ -34,6 +34,8 @@ Carrier proteins for auxin (PINs, ABCB, AUX1/LAX)
 
 ## Methods
 
+I reviewed the pathways for IAA production using Olanrewaju's paper and the KEGG website. I used Geneious Prime to search for coding sequences that matched with the enzymes necessary to carry out one of those pathways. I then predicted whether each strain could produce IAA based on the presence of those coding sequences.
+
 ## Results
 
 All strains have 4.2.1.20, 4.1.1.48, 5.3.1.24, 2.4.2.18. Tryptophan synthesis via indole (<https://www.kegg.jp/pathway/map00400>). IAA synthesis may be possible from just indole, Trp independent synthesis (<https://www.genome.jp/entry/R08609+RC00209>) addition of deaminated Ser via 4.2.1.20 like enzyme??? May not be possible because you need a schiff base (review PLP stuff). rule out all other paths before looking further.
