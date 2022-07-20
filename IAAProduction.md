@@ -6,6 +6,8 @@ bibliography: references.bib
 
 ## Summary of Findings
 
+The 11R-B and PTD1 strains are predicted to produce IAA through the TAM pathway due to the presence of aromatic-L-amino-acid decarboxylase, monoamine oxidase, and aldehyde dehydrogenase coding sequences. No other strains were predicted to produce IAA using any other pathway.
+
 ## Introduction
 
 ## Literature Review [@olanrewaju2017]
