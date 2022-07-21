@@ -1,3 +1,7 @@
+---
+bibliography: references.bib
+---
+
 # Phosphate Solubilization
 
 ## Summary of Findings
@@ -6,11 +10,11 @@ Due to the presence of gcd (glucose dehydrogenase) and gad (gluconate dehydrogen
 
 ## Introduction
 
-We are using Geneious Prime to predict if certain strains of endophytic bacteria can solubilize phosphate. This will give me further experience with Geneious Prime and KEGG. The strains used were 11R-A, 11R-B1, PTD1, R10, SherDot1, WP5, and WW5.
+We are using Geneious Prime to predict if certain strains of endophytic bacteria can solubilize phosphate. This will give me further experience with Geneious Prime and RAST. The strains used were 11R-A, 11R-B1, PTD1, R10, SherDot1, WP5, and WW5.
 
 ## Literature Review
 
-Phosphate solubilization by bacteria is mediated by the secretion of gluconate
+Phosphate solubilization by bacteria is mediated by the secretion of gluconate. Glucose-1-dehydrogenase (gcd) and gluconic acid dehydrogenase make gluconic acid and 2-ketogluconate. Gluconic acid lowers the pH of the surrounding area, which allows soluble phosphorylated gluconate to form. This gluconate is then taken into cells by sugar transporters [@eastman2014]. I'm expecting to find gcd in strains that can solubilize phosphate.
 
 ## Methods
 
@@ -48,8 +52,4 @@ I viewed the annotated strains in Geneious Prime and searched for glucose dehydr
 
 ## Outcomes
 
-11R-A, PTD1, R10, SherDot1, and WP5 were predicted to be able to solubilize phosphate because gcd and gad coding sequences were present in their genomes. 11RB and WW5 do not have these coding sequences, so they were predicted to be unable to solubilize phosphate. After this prediction, I tested it by placing each strain in an agar plate with insoluble TCP (tricalcium phosphate) mixed in. In this assay, only R10 and WP5 were able to solubilize the phosphate, which was demonstrated by a clear ring forming around the bacteria. 11R-A, PTD1, and SherDot1 were unable to solubilize the phosphate in these conditions despite having the gcd and gad genes. This may be because the genes weren't being expressed in those conditions.
-
-## Notes
-
-Gluconate and 2-ketogluconate can both combine with mineral phosphate to make soluble phosphate. Gluconate dehydrogenase may not be necessary for solubilization.
+11R-A, PTD1, R10, SherDot1, and WP5 were predicted to be able to solubilize phosphate because gcd and gad coding sequences were present in their genomes. 11RB and WW5 do not have these coding sequences, so they were predicted to be unable to solubilize phosphate. After this prediction, I tested it by placing each strain in an agar plate with insoluble TCP (tricalcium phosphate) mixed in. In this assay, only R10 and WP5 were able to solubilize the phosphate, which was demonstrated by a clear ring forming around the bacteria. 11R-A, PTD1, and SherDot1 were unable to solubilize the phosphate in these conditions despite having the gcd and gad genes. This may be because the genes weren't being expressed in those conditions. A next step would be to find out how these genes are regulated in each strain. It may explain why some of the strains didn't solubilize the phosphate even though they were predicted to.
