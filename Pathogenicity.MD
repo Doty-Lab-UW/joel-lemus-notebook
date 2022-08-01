@@ -19,3 +19,12 @@ IV4 results: none had evidence of virulence factors or resistance genes.
 No results came up on CARD, none of these strains are known pathogens.
 
 Rahnella aquatilis has stuff written about its genes, not our strain, but same genus
+
+| Col1 | Col2 | Col3 |
+|------|------|------|
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
